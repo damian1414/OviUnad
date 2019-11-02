@@ -6,7 +6,7 @@ body {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 25%;
+    width: 15%;
     background-color: #f1f1f1;
     position: fixed;
     height: 100%;
@@ -31,7 +31,7 @@ body {
   }
 
   div.content {
-    margin-left: 25%;
+    /*margin-left: 25%; */
     padding: 1px 16px;
     height: 1000px;
     width: auto;
@@ -40,16 +40,16 @@ body {
   }
 
   div.contentOtros {
-    margin-left: 25%;
+    /* margin-left: 25%; */
     padding: 1px 16px;
-    height: auto;
+    height: 2870px;
     width: auto;
     background-color: #005883;
 
   }
 
   img.logoUnad {
-    width: 480px;
+    width: 300px;
     height: auto;
   }
 
@@ -122,16 +122,27 @@ body {
     height: 300px;
  }
  div.contenedorInicial {
-  margin-left: 25%;
+  /* margin-left: 25%; */
   padding: 1px 16px;
-  height: 1200px;
+  height: 1219px;
   background-color: #005883;
   
 }
 div.contenedorMultimedia {
-  margin-left: 25%;
+  /* margin-left: 25%; */
   padding: 1px 16px;
-  height: 1400px;
+  height: 1532px;
   background-color: #005883;
   
+}
+div.contenedorActividades {
+  /* margin-left: 25%; */
+  padding: 1px 16px;
+  height: 2208px;
+  background-color: #005883;
+  
+}
+
+p{
+  margin-left: 300px;
 }
